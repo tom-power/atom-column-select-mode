@@ -1,8 +1,8 @@
 {
   "name": "atom-column-select-mode",
   "main": "./lib/atom-column-select-mode",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Column select mode for atom",
   "keywords": [
     "atom",
     "column",
@@ -14,6 +14,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "configSchema": {}
 }
